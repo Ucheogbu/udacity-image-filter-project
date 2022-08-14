@@ -52,4 +52,4 @@ Add your own domain name and have it point to the running services (try adding a
 https://github.com/Ucheogbu/udacity-image-filter-project.git
 
 #Elastic beanstalk deployment URL
-http://image-filter-starter-code-dev2.eu-west-3.elasticbeanstalk.com/ 
+http://image-filter-starter-code-dev22.eu-west-3.elasticbeanstalk.com/
